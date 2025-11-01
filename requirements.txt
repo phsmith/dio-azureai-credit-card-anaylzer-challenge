@@ -1,0 +1,6 @@
+aiofiles==25.1.0
+azure-ai-documentintelligence==1.0.2
+dotenv==0.9.9
+fastapi==0.120.3
+python_multipart==0.0.20
+uvicorn==0.38.0
